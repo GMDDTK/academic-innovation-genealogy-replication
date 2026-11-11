@@ -1,0 +1,7 @@
+profile,rank_within_profile,paper_id,issue_year,citations_all,all_all,semantic_no_direct_citation_all,outdegree_minus_within_corpus_citations,outdegree_percentile,within_corpus_citation_percentile
+more_within_corpus_citations,1,W2128438887,2005,2748,1935,69,-813,100,100
+more_within_corpus_citations,2,W2037925493,1997,800,312,22,-488,99.9152,99.9919
+more_within_corpus_citations,3,W2005706022,2006,735,349,34,-386,99.9354,99.9798
+more_inferred_edges,1,W1963878291,1973,10,467,464,457,99.9637,74.7769
+more_inferred_edges,2,W1988263507,1986,21,424,412,403,99.9475,88.1072
+more_inferred_edges,3,W2111001702,2003,85,476,420,391,99.9677,98.6353

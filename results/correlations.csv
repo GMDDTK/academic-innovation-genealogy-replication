@@ -1,0 +1,11 @@
+window_or_count_basis,candidate_source,papers,pearson_r,spearman_rho
+full_period,all,24767,0.772894710364,0.752324024303
+full_period,citation_only,24767,0.933446355557,0.844102729467
+full_period,both,24767,0.761460677329,0.534364835747
+full_period,semantic_archived,24767,0.230823708052,0.406253425712
+full_period,semantic_no_direct_citation,24767,0.229906269225,0.403978518165
+five_year_window,all,18170,0.680398722342,0.712826110178
+five_year_window,citation_only,18170,0.885832947632,0.804896809914
+five_year_window,both,18170,0.651804099295,0.485888238112
+five_year_window,semantic_archived,18170,0.240724175461,0.324324304485
+five_year_window,semantic_no_direct_citation,18170,0.24056754839,0.323189306608

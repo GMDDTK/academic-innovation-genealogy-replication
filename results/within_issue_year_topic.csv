@@ -1,0 +1,6 @@
+candidate_source,papers,issue_year_topic_cells,pearson_r_log_counts_centered_within_issue_year_topic
+all,13416,495,0.678509215707
+citation_only,13416,495,0.819574965024
+both,13416,495,0.497952748355
+semantic_archived,13416,495,0.261864274725
+semantic_no_direct_citation,13416,495,0.260567960261

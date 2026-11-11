@@ -1,0 +1,47 @@
+{
+  "corpus_papers": 24767,
+  "micro_topics": 85,
+  "logical_network_nodes": 23297,
+  "candidate_records": 468873,
+  "distinct_unordered_candidate_pairs": 468019,
+  "candidate_origins": {
+    "citation_only": {
+      "candidate_records": 223739,
+      "retained_edges": 104244,
+      "retained_edges_by_relation": {
+        "Supplement": 38901,
+        "Analogy": 37972,
+        "Comparison": 12186,
+        "Usage": 9160,
+        "Implication": 6025
+      }
+    },
+    "semantic_only": {
+      "candidate_records": 223531,
+      "retained_edges": 148565,
+      "retained_edges_by_relation": {
+        "Usage": 3955,
+        "Supplement": 64527,
+        "Analogy": 43114,
+        "Comparison": 24348,
+        "Implication": 12621
+      }
+    },
+    "both_signals": {
+      "candidate_records": 21603,
+      "retained_edges": 17325,
+      "retained_edges_by_relation": {
+        "Supplement": 8536,
+        "Analogy": 4785,
+        "Comparison": 2845,
+        "Usage": 462,
+        "Implication": 697
+      }
+    }
+  },
+  "within_corpus_citation_links": 251714,
+  "papers_absent_from_logical_network": {
+    "no_candidate": 799,
+    "candidate_but_no_retained_edge": 671
+  }
+}
