@@ -1,0 +1,75 @@
+candidate_source,relation,archive_subtype,edges
+both_signals,Analogy,,2
+both_signals,Analogy,Replication,387
+both_signals,Analogy,Robustness Test,154
+both_signals,Analogy,Transplantation,4242
+both_signals,Comparison,,4
+both_signals,Comparison,Benchmark,50
+both_signals,Comparison,Competition,2354
+both_signals,Comparison,Falsification,437
+both_signals,Implication,,10
+both_signals,Implication,Method→Application,1
+both_signals,Implication,Method→Implementation,111
+both_signals,Implication,Theory->Application,1
+both_signals,Implication,Theory→Application,63
+both_signals,Implication,Theory→Method,511
+both_signals,Supplement,,11
+both_signals,Supplement,Combination,841
+both_signals,Supplement,Reconstruction,2743
+both_signals,Supplement,Refinement,4941
+both_signals,Usage,,4
+both_signals,Usage,Data Usage,119
+both_signals,Usage,Metric Usage,178
+both_signals,Usage,Tool Usage,161
+citation_only,Analogy,,71
+citation_only,Analogy,Reconstruction,1
+citation_only,Analogy,Replication,1014
+citation_only,Analogy,Robustness Test,577
+citation_only,Analogy,Transplantation,36309
+citation_only,Comparison,,36
+citation_only,Comparison,Benchmark,132
+citation_only,Comparison,Competition,10234
+citation_only,Comparison,Falsification,1784
+citation_only,Implication,,74
+citation_only,Implication,Method->Implementation,1
+citation_only,Implication,Method→Application,18
+citation_only,Implication,Method→Implementation,604
+citation_only,Implication,Method→Method,1
+citation_only,Implication,Theory->Application,1
+citation_only,Implication,Theory->Method,8
+citation_only,Implication,Theory→Application,493
+citation_only,Implication,Theory→Method,4825
+citation_only,Supplement,,44
+citation_only,Supplement,Combination,4261
+citation_only,Supplement,Reconstruction,11593
+citation_only,Supplement,Refinement,23002
+citation_only,Supplement,Theory→Method,1
+citation_only,Usage,,109
+citation_only,Usage,Data Usage,1237
+citation_only,Usage,Metric Usage,3670
+citation_only,Usage,Tool Usage,4144
+semantic_only,Analogy,,111
+semantic_only,Analogy,Replication,1138
+semantic_only,Analogy,Robustness Test,626
+semantic_only,Analogy,Transplantation,41239
+semantic_only,Comparison,,86
+semantic_only,Comparison,Benchmark,294
+semantic_only,Comparison,Competition,18970
+semantic_only,Comparison,Difference,3
+semantic_only,Comparison,Falsification,4995
+semantic_only,Implication,,477
+semantic_only,Implication,Method→Application,32
+semantic_only,Implication,Method→Implementation,928
+semantic_only,Implication,Theory→Application,490
+semantic_only,Implication,Theory→Further Theory,1
+semantic_only,Implication,Theory→Method,10693
+semantic_only,Supplement,,144
+semantic_only,Supplement,Combination,3529
+semantic_only,Supplement,Reconstruction,14053
+semantic_only,Supplement,Refinement,46801
+semantic_only,Usage,,16
+semantic_only,Usage,Data Usage,1007
+semantic_only,Usage,Method Usage,3
+semantic_only,Usage,Metric Usage,2149
+semantic_only,Usage,Protocol Usage,8
+semantic_only,Usage,Tool Usage,772

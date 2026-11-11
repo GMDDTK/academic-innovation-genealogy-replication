@@ -1,0 +1,151 @@
+source_paper_id,target_paper_id,relation,archive_subtype,candidate_source
+W2990694696,W4322208051,Analogy,Transplantation,both_signals
+W2079632941,W2120690244,Analogy,Transplantation,both_signals
+W2078234806,W2049958885,Analogy,Transplantation,both_signals
+W2756282763,W4389606960,Analogy,Transplantation,both_signals
+W2016927894,W3098224963,Analogy,Transplantation,both_signals
+W2120867647,W3035975760,Analogy,Transplantation,both_signals
+W2920946723,W4312198365,Analogy,Transplantation,both_signals
+W2063521776,W2092731227,Analogy,Transplantation,both_signals
+W2144925873,W2093442517,Analogy,Transplantation,both_signals
+W2063560963,W651404613,Analogy,Transplantation,both_signals
+W2024207596,W2167304379,Comparison,Competition,both_signals
+W2096869410,W3100548223,Comparison,Competition,both_signals
+W2767520855,W3119531013,Comparison,Competition,both_signals
+W2158613109,W4226146365,Comparison,Falsification,both_signals
+W2159336657,W1491754772,Comparison,Falsification,both_signals
+W2565026778,W4384028630,Comparison,Competition,both_signals
+W2173388148,W2770237240,Comparison,Falsification,both_signals
+W2034845343,W2763284524,Comparison,Competition,both_signals
+W3103684894,W3105706588,Comparison,Falsification,both_signals
+W2466671976,W4404038939,Comparison,Competition,both_signals
+W2005880551,W4297173270,Implication,Method→Implementation,both_signals
+W2073788864,W3106316009,Implication,Theory→Method,both_signals
+W2028020432,W2063889931,Implication,Theory→Method,both_signals
+W1995893870,W2780382424,Implication,Theory→Method,both_signals
+W2097110982,W1951343740,Implication,Theory→Application,both_signals
+W2047507605,W2049953773,Implication,Theory→Method,both_signals
+W1998602496,W2792577781,Implication,Theory→Method,both_signals
+W2585591443,W4306986310,Implication,Theory→Method,both_signals
+W2097777089,W2027949543,Implication,Theory→Method,both_signals
+W2102447898,W3100413425,Implication,Theory→Method,both_signals
+W2097777089,W3105765194,Supplement,Refinement,both_signals
+W2138568683,W3187552427,Supplement,Reconstruction,both_signals
+W2119132937,W1971309952,Supplement,,both_signals
+W1982015285,W3118220166,Supplement,Refinement,both_signals
+W2154378827,W2128125167,Supplement,Refinement,both_signals
+W2139081384,W3100708448,Supplement,Refinement,both_signals
+W2113943155,W2792996745,Supplement,Refinement,both_signals
+W2145203895,W4286322021,Supplement,Reconstruction,both_signals
+W2952984634,W2105292964,Supplement,Refinement,both_signals
+W2005436236,W2903735087,Supplement,Combination,both_signals
+W2808589232,W4399710116,Usage,Tool Usage,both_signals
+W2049965366,W2751377575,Usage,Tool Usage,both_signals
+W1998358129,W3134815585,Usage,Tool Usage,both_signals
+W2054689332,W3130342212,Usage,Data Usage,both_signals
+W2052699813,W2293212854,Usage,Metric Usage,both_signals
+W2138780415,W2504371107,Usage,Data Usage,both_signals
+W2053549370,W2010980518,Usage,Metric Usage,both_signals
+W2128438887,W2000927675,Usage,Metric Usage,both_signals
+W2066752129,W4397001202,Usage,Metric Usage,both_signals
+W2149164687,W2038079098,Usage,Data Usage,both_signals
+W2024425823,W2806113117,Analogy,Transplantation,citation_only
+W2523325112,W4220728714,Analogy,Transplantation,citation_only
+W1999348570,W4255561580,Analogy,Transplantation,citation_only
+W2055858911,W1950856830,Analogy,Transplantation,citation_only
+W2751427740,W2806012053,Analogy,Transplantation,citation_only
+W2083537051,W2126908182,Analogy,Transplantation,citation_only
+W2165573560,W2557461287,Analogy,Transplantation,citation_only
+W1968333645,W2826165912,Analogy,Transplantation,citation_only
+W2038696638,W2072350479,Analogy,Replication,citation_only
+W2799947626,W2891491586,Analogy,Transplantation,citation_only
+W2103235213,W2024742662,Comparison,Competition,citation_only
+W2144316058,W3088159905,Comparison,Competition,citation_only
+W2140283616,W2133551550,Comparison,Competition,citation_only
+W2107315142,W2028276831,Comparison,Competition,citation_only
+W4241081299,W2129529638,Comparison,Competition,citation_only
+W1491247056,W2104914590,Comparison,Competition,citation_only
+W1747769665,W2990961322,Comparison,Competition,citation_only
+W2128438887,W3118647375,Comparison,Competition,citation_only
+W2034368872,W1825174513,Comparison,Competition,citation_only
+W2021882344,W2321755921,Comparison,Competition,citation_only
+W2030044803,W2474191477,Implication,Theory→Method,citation_only
+W1987766450,W2019150869,Implication,Theory→Method,citation_only
+W2162012713,W2087345320,Implication,Method→Implementation,citation_only
+W2053403152,W2561495171,Implication,Theory→Method,citation_only
+W3039347329,W4402483649,Implication,Theory→Method,citation_only
+W2122218263,W2903562575,Implication,Theory→Method,citation_only
+W2077217220,W1990834318,Implication,Theory→Method,citation_only
+W2760036539,W2896458954,Implication,Theory→Method,citation_only
+W2800112456,W2959663053,Implication,Theory→Method,citation_only
+W2041710630,W4229082068,Implication,Theory→Method,citation_only
+W2151866568,W3041640521,Supplement,Reconstruction,citation_only
+W1971087125,W2963761964,Supplement,Refinement,citation_only
+W4241081299,W2591659376,Supplement,Refinement,citation_only
+W2995110542,W3084122008,Supplement,Reconstruction,citation_only
+W2810021627,W3106223328,Supplement,Refinement,citation_only
+W4230129368,W2593265210,Supplement,Refinement,citation_only
+W2083488923,W2315973210,Supplement,Refinement,citation_only
+W2766227859,W2891491586,Supplement,Reconstruction,citation_only
+W1541069457,W1916342215,Supplement,Refinement,citation_only
+W1565997213,W2380929559,Supplement,Refinement,citation_only
+W2160094849,W4205211563,Usage,Metric Usage,citation_only
+W2010207386,W2734485308,Usage,Data Usage,citation_only
+W2087238585,W1919624513,Usage,Tool Usage,citation_only
+W2030796475,W1979778687,Usage,Tool Usage,citation_only
+W2951515884,W2104869401,Usage,Tool Usage,citation_only
+W3098217728,W4404656065,Usage,Tool Usage,citation_only
+W4238591974,W4243775900,Usage,Tool Usage,citation_only
+W2036955834,W1989812497,Usage,Tool Usage,citation_only
+W1982218215,W4388129970,Usage,Metric Usage,citation_only
+W2090406645,W2120500604,Usage,Metric Usage,citation_only
+W2049071431,W2301814032,Analogy,Transplantation,semantic_only
+W2086391421,W4391277573,Analogy,Transplantation,semantic_only
+W2040022536,W4393187246,Analogy,Transplantation,semantic_only
+W3148154596,W4403377505,Analogy,Transplantation,semantic_only
+W1977956456,W2966290446,Analogy,Transplantation,semantic_only
+W2896985486,W2887535915,Analogy,Transplantation,semantic_only
+W1994121865,W2921139382,Analogy,Transplantation,semantic_only
+W4311098428,W4392665331,Analogy,Transplantation,semantic_only
+W2148770370,W1964638400,Analogy,Transplantation,semantic_only
+W3207167112,W4389440947,Analogy,Transplantation,semantic_only
+W2126989544,W2005620982,Comparison,Competition,semantic_only
+W2041126987,W3175494296,Comparison,Competition,semantic_only
+W2137725064,W3048623625,Comparison,Competition,semantic_only
+W2157852795,W2058246666,Comparison,Competition,semantic_only
+W1979488198,W3121742665,Comparison,Competition,semantic_only
+W1963878291,W4310567104,Comparison,Falsification,semantic_only
+W2111626099,W1993069138,Comparison,Competition,semantic_only
+W2086222100,W3122693449,Comparison,Falsification,semantic_only
+W2002947327,W2035826783,Comparison,Competition,semantic_only
+W1666134154,W2094159219,Comparison,Falsification,semantic_only
+W2154063369,W2031370253,Implication,Theory→Application,semantic_only
+W1966744811,W3163923293,Implication,Theory→Method,semantic_only
+W2107691387,W4396497731,Implication,,semantic_only
+W1878190107,W2112854903,Implication,Theory→Method,semantic_only
+W2136641896,W2148605492,Implication,Theory→Method,semantic_only
+W2012530364,W3137029194,Implication,Theory→Method,semantic_only
+W1997043923,W4221032373,Implication,Method→Application,semantic_only
+W1522308784,W3101594158,Implication,Theory→Method,semantic_only
+W2151667393,W2964128946,Implication,Theory→Method,semantic_only
+W1973986376,W2210339477,Implication,Theory→Method,semantic_only
+W2038650772,W3183213374,Supplement,Refinement,semantic_only
+W2149164687,W2300217559,Supplement,Reconstruction,semantic_only
+W2622756301,W2910414489,Supplement,Refinement,semantic_only
+W2048514805,W4280513357,Supplement,Reconstruction,semantic_only
+W2027340513,W2009036547,Supplement,Reconstruction,semantic_only
+W2087099199,W2029104187,Supplement,Refinement,semantic_only
+W2157669664,W2106447429,Supplement,Refinement,semantic_only
+W4245451725,W3138183833,Supplement,Refinement,semantic_only
+W2572360254,W4317358988,Supplement,Reconstruction,semantic_only
+W2047895425,W2806133181,Supplement,Refinement,semantic_only
+W2771849917,W4389674511,Usage,Data Usage,semantic_only
+W2018156266,W2612430136,Usage,Metric Usage,semantic_only
+W1966649369,W2130813337,Usage,Data Usage,semantic_only
+W2899945460,W4291020320,Usage,Tool Usage,semantic_only
+W2155943803,W2413819298,Usage,Tool Usage,semantic_only
+W4240601684,W2068604254,Usage,Metric Usage,semantic_only
+W1986770435,W2045872176,Usage,Tool Usage,semantic_only
+W2054988762,W2102447898,Usage,Tool Usage,semantic_only
+W2339673439,W2341539613,Usage,Data Usage,semantic_only
+W2044326206,W2753092157,Usage,Metric Usage,semantic_only
